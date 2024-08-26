@@ -1,0 +1,9 @@
+theme: minima
+
+header_pages:
+  - index.md
+
+footer_text: "Copyright © 2024 sen5q All rights reserved."
+
+url: ""
+description: ""
