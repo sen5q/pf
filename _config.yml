@@ -1,7 +1,7 @@
 theme: minima
 
 header_pages:
-  - index.md
+  - portfolio.md
 
 footer_text: "Copyright © 2024 sen5q All rights reserved."
 
