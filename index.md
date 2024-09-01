@@ -6,16 +6,19 @@ layout: default
 フロントエンドエンジニアを目指しています。デザインやUI/UXにも興味があります。
 
 # スキルセット
+
 ### 言語
 - Python
 - Java
 - HTML
 - CSS
+
 ### ツール・クラウド
 - Git
 - SQL
 - GCP
 - AWS
+
 ### その他
 - Photoshop
 
@@ -30,7 +33,6 @@ layout: default
 - 専攻:HCI・機械学習
 - 関連分野:感性工学、自然言語処理、パターン認識、画像処理、UI設計、インタラクションデザイン
 
-
 # 制作物
 ### 書籍紛失検知システム
 **ファイルの場所**./file/book
@@ -44,7 +46,6 @@ layout: default
 書籍ごとに紛失率を出力します。
 
 ### Web勤怠自動入カツール
-
 **ファイルの場所**:
 GitHub/sen5q/webkintal
 
@@ -59,7 +60,6 @@ Auto Hot Key
 それを自動化したことで十数秒に削減できました。
 
 ### 「yyyymmdd(曜)」形式のフォルダを開くバッチスクリプト
-
 **ファイルの場所**:
 ./file/dailyfolder/dailyfolder.bat
 
@@ -74,7 +74,7 @@ C:\abc\abc\abc\yyyymmdd(曜)\abc\abc\abc\よく使うファイル.xlsx
 ##SwitchBot 製品をPCから制御するプログラム
 
 **ファイルの場所**:
-/GitHub/sen5q/switchbot-for-pc
+GitHub/sen5q/switchbot-for-pc
 
 **使用技術**
 Python, SwitchBot API
@@ -82,11 +82,10 @@ Python, SwitchBot API
 **詳細**:
 SwitchBot ハブミニがWindowsやmacから
 操作できたらいいなあと思い作りました。
-get_device_id.py で取得したデバイスIDを id.py に記載してから<br>
-`$ airconditioner.py (モード) (溫度)<br>
-と実行するとエアコンを操作することができます。<br>
-同様に、電気を操作するlight.pyや、
-事前にアプリの方で作成してあるシーンを実行する scene.py もあります。
+get_device_id.py で取得したデバイスIDを id.py に記載してから
+airconditioner.py と実行するとエアコンを操作することができます。
+同様に、電気を操作する light.py や、
+アプリの方で作成したシーンを実行する scene.py もあります。
 
 ### SNSリンクまとめページ
 **ファイルの場所**:
@@ -120,7 +119,7 @@ Linuxベースのレンタルサーバーを借り、
 # その他活動
 ### 競技プログラミング
 **アカウント**: AtCoder <br>
-**ファイル管理**: GitHub
+**ファイル管理**: GitHub/sen5q/atcoder
 
 # 連絡先
 t.sen5q@gmail.com
